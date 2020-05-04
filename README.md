@@ -1,5 +1,5 @@
 [![Github top language](https://img.shields.io/github/languages/top/FHPythonUtils/ImportSize.svg?style=for-the-badge)](../../)
-[![Codacy grade](https://img.shields.io/codacy/grade/fb3114b3f05f4e6bb6dc11ac1a0cdaad.svg?style=for-the-badge)](https://www.codacy.com/manual/FHPythonUtils/ImportSize)
+[![Codacy grade](https://img.shields.io/codacy/grade/fb3114b3f05f4e6bb6dc11ac1a0cdaad.svg?style=for-the-badge)](https://www.codacy.com/gh/FHPythonUtils/ImportSize)
 [![Repository size](https://img.shields.io/github/repo-size/FHPythonUtils/ImportSize.svg?style=for-the-badge)](../../)
 [![Issues](https://img.shields.io/github/issues/FHPythonUtils/ImportSize.svg?style=for-the-badge)](../../issues)
 [![License](https://img.shields.io/github/license/FHPythonUtils/ImportSize.svg?style=for-the-badge)](/LICENSE.md)
