@@ -1,5 +1,7 @@
 poetry.lock
 README.rst
+# README documentation is pretty good
+DOCS.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
